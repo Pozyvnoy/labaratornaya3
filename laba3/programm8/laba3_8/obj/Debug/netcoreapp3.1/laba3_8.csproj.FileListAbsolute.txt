@@ -1,0 +1,13 @@
+/Users/nikitapozyvnoj/Projects/laba3_8/laba3_8/bin/Debug/netcoreapp3.1/laba3_8.deps.json
+/Users/nikitapozyvnoj/Projects/laba3_8/laba3_8/bin/Debug/netcoreapp3.1/laba3_8.runtimeconfig.json
+/Users/nikitapozyvnoj/Projects/laba3_8/laba3_8/bin/Debug/netcoreapp3.1/laba3_8.runtimeconfig.dev.json
+/Users/nikitapozyvnoj/Projects/laba3_8/laba3_8/bin/Debug/netcoreapp3.1/laba3_8.dll
+/Users/nikitapozyvnoj/Projects/laba3_8/laba3_8/bin/Debug/netcoreapp3.1/laba3_8.pdb
+/Users/nikitapozyvnoj/Projects/laba3_8/laba3_8/obj/Debug/netcoreapp3.1/laba3_8.csproj.AssemblyReference.cache
+/Users/nikitapozyvnoj/Projects/laba3_8/laba3_8/obj/Debug/netcoreapp3.1/laba3_8.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nikitapozyvnoj/Projects/laba3_8/laba3_8/obj/Debug/netcoreapp3.1/laba3_8.AssemblyInfoInputs.cache
+/Users/nikitapozyvnoj/Projects/laba3_8/laba3_8/obj/Debug/netcoreapp3.1/laba3_8.AssemblyInfo.cs
+/Users/nikitapozyvnoj/Projects/laba3_8/laba3_8/obj/Debug/netcoreapp3.1/laba3_8.csproj.CoreCompileInputs.cache
+/Users/nikitapozyvnoj/Projects/laba3_8/laba3_8/obj/Debug/netcoreapp3.1/laba3_8.dll
+/Users/nikitapozyvnoj/Projects/laba3_8/laba3_8/obj/Debug/netcoreapp3.1/laba3_8.pdb
+/Users/nikitapozyvnoj/Projects/laba3_8/laba3_8/obj/Debug/netcoreapp3.1/laba3_8.genruntimeconfig.cache
